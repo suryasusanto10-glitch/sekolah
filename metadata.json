@@ -1,0 +1,6 @@
+{
+  "name": "SI-INVENTARIS: Sistem Inventaris & Peminjaman Barang",
+  "description": "Sistem informasi manajemen inventaris barang, kontrol stok real-time, sirkulasi peminjaman alat, serta generator laporan lengkap format Excel, Word, dan PDF untuk admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
